@@ -6,3 +6,4 @@ Consider a fictional retail supermarket “K-mart” situated in different citie
 In this problem, the supermarket wants to input the data in a database quickly and efficiently so that they will get quick and actionable insights.
 
  
+![image](https://github.com/user-attachments/assets/df2aca2f-68da-4dcb-ba2e-75f7221d3e3b)
